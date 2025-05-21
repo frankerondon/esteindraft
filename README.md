@@ -276,3 +276,11 @@ Secciones Definitivas en el Website
 - Categoria de Productos
 - Contacto
 - Footer
+
+--- 
+
+WEBSITE FINAL SECCION HOMEPAGE (DRAFT)
+
+![homepageDraft.png](homepageDraft.png)
+
+

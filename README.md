@@ -1,9 +1,5 @@
 El dia de hoy lunes 19/05 se ha logrado tener el primer meeting oficial acerca de como seria la nueva version del website de ESTEIN. 
 
-Ya que principalmente tenia es esta referencia de Website, basado en las anotaciones que hice dentro del archivo 
-
-![estWebsiteDev.txt](EsteinNewWebsite/estWebsiteDev.txt)
-
 
 [Dimuca](https://dimuca.net)
 

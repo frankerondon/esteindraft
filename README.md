@@ -250,12 +250,12 @@ De este website en particular me gusta es la seccion del video Background y los 
 
 - Video Background 
 
-![reotempSnapshots.mp4](EsteinNewWebsite/ReferenceSnapshots/reotempSnapshots/reotempSnapshots.mp4)
+![reotempSnapshots.mp4](EsteinNewWebsite/ReferenceSnapshots/reotempSnapshots/reotempSnapshots-ezgif.com-speed.gif)
 
 
 - Flipping Cards 
 
-![ReotempFlippingCards.mp4](EsteinNewWebsite/ReferenceSnapshots/reotempSnapshots/ReotempFlippingCards.mp4)
+![ReotempFlippingCards.mp4](EsteinNewWebsite/ReferenceSnapshots/ReotempFlippingCards/ReotempFlippingCards-ezgif.com-speed.gif)
 
 
 - Listado de Categorias 

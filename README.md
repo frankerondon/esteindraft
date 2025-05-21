@@ -105,7 +105,7 @@ Es decir que los stacks principales son:
 En este website en particular lo que agrada es que en la seccion del homepage aparece un video y se quiere hacer la misma implementacion en el website de ESTEIN en el modulo de home, cuando la pagina se ve por primera vez.
 
 
-![videoHomepageSample.mp4](EsteinNewWebsite/ReferenceSnapshots/videoHomepageSample/videoHomepageSample.mp4)
+![videoHomepageSample.mp4](EsteinNewWebsite/ReferenceSnapshots/videoHomepageSample/videoHomepageSample-ezgif.com-optimize.gif)
 
 
 ---

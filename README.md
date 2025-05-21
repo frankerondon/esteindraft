@@ -11,7 +11,7 @@ Ya que principalmente tenia es esta referencia de Website, basado en las anotaci
 
 Este sitio web usa los siguientes stacks 
 
-![Pasted image 20250519122800](assets/Pasted%20image%2020250519122800.png)
+![Pasted image 20250519122800](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519122800.png)
 
 Es decir que los stacks principales son:
     -> ***Wordpress
@@ -38,11 +38,11 @@ https://www.google.com/search?q=manometros+venta&sca_esv=5343c4de10c8fdae&rlz=1C
 
 [VaportTec](https://vaportec.com.ve/product-category/instrumentacion/manometros/)
 
-![Pasted image 20250519123825](assets/Pasted%20image%2020250519123825.png)
+![Pasted image 20250519123825](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519123825.png)
 
 Este sitio web usa los siguientes stacks 
 
-![Pasted image 20250519124208](assets/Pasted%20image%2020250519124208.png)
+![Pasted image 20250519124208](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519124208.png)
 
 Es decir que los stacks principales son:
     -> ***Wordpress
@@ -72,12 +72,12 @@ Nota: Todas las secciones se armaron con Elementor
 
 [AquaTrece](https://aquatrece.com/products-details/pg-lf-lm-m/manometro)
 
-![Pasted image 20250519125004](assets/Pasted%20image%2020250519125004.png)
+![Pasted image 20250519125004](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519125004.png)
 
 
 Este sitio web usa los siguientes stacks 
 
-![Pasted image 20250519125254](assets/Pasted%20image%2020250519125254.png)
+![Pasted image 20250519125254](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519125254.png)
 
 Es decir que los stacks principales son:
     -> ***Javascript (Algun framework de JS de frontend)
@@ -95,17 +95,17 @@ Es decir que los stacks principales son:
 
 En este website en particular lo que agrada es que en la seccion del homepage aparece un video y se quiere hacer la misma implementacion en el website de ESTEIN en el modulo de home, cuando la pagina se ve por primera vez.
 
-![videoHomepageSample.mp4](assets/videoHomepageSample.mp4)
+![videoHomepageSample.mp4](EsteinNewWebsite/ReferenceSnapshots/videoHomepageSample/videoHomepageSample.mp4)
 
 ---
 
 [Importadora Industrial C.A.](https://importadoraindustrial.com/categoria-producto/instrumentacion-y-medicion/)
 
-![Pasted image 20250519150100](assets/Pasted%20image%2020250519150100.png)
+![Pasted image 20250519150100](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519150100.png)
 
 Este sitio web usa los siguientes stacks
 
-![Pasted image 20250519150413](assets/Pasted%20image%2020250519150413.png)
+![Pasted image 20250519150413](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519150413.png)
 
 Es decir que los stacks principales son:
     -> ***Wordpress
@@ -125,7 +125,7 @@ De este website en particular lo que agrada son los siguientes elementos:
 
 #### Navbar 
 
-![Pasted image 20250519151324](assets/Pasted%20image%2020250519151324.png)
+![Pasted image 20250519151324](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519151324.png)
 
 Es decir que dentro del navbar de la nueva version de ESTEIN tendran los siguientes modulos:
     -> Inicio 
@@ -139,7 +139,7 @@ Es decir que dentro del navbar de la nueva version de ESTEIN tendran los siguien
 
 https://importadoraindustrial.com/productos/
 
-![Pasted image 20250519151645](assets/Pasted%20image%2020250519151645.png)
+![Pasted image 20250519151645](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519151645.png)
 Lo que agrada de este modulo es que los productos se asocian a una categoria y por tanto se pretenden agregar las siguientes categorias de productos como:
 -> Manometros 
 -> Termometros 
@@ -159,12 +159,12 @@ Este modulo se pretende agregar tanto en un modulo aparte como dentro del Homepa
 
 [Pump Stop Online](https://www.pumpstoponline.com.ve/products/manometro-glicerina-2-pulgadas-ss-de-0-100-psi-a-0-300-psi?srsltid=AfmBOoq19m6eUEfD51Tff7sL3ciRcMKflSGYXSn5Qfif_-7HKFSwtwxr)
 
-![Pasted image 20250520105659](assets/Pasted%20image%2020250520105659.png)
+![Pasted image 20250520105659](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250520105659.png)
 
 
 Este sitio web usa los siguientes stacks
 
-![Pasted image 20250520110422](assets/Pasted%20image%2020250520110422.png)
+![Pasted image 20250520110422](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250520110422.png)
 
 Es decir que los stacks principales son:
     -> ***Shopify
@@ -182,11 +182,11 @@ Es decir que los stacks principales son:
 
 [Reotemp](https://reotemp.com/)
 
-![Pasted image 20250520112047](assets/Pasted%20image%2020250520112047.png)
+![Pasted image 20250520112047](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250520112047.png)
 
 Este sitio web usa los siguientes stacks
 
-![Pasted image 20250520112530](assets/Pasted%20image%2020250520112530.png)
+![Pasted image 20250520112530](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250520112530.png)
 
 Es decir que los stacks principales son:
     -> ***Wordpress
@@ -204,17 +204,17 @@ De este website en particular me gusta es la seccion del video Background y los 
 
 -> Video Background 
 
-![reotempSnapshots.mp4](assets/reotempSnapshots.mp4)
+![reotempSnapshots.mp4](EsteinNewWebsite/ReferenceSnapshots/reotempSnapshots/reotempSnapshots.mp4)
 
 
 -> Flipping Cards 
 
-![ReotempFlippingCards.mp4](assets/ReotempFlippingCards.mp4)
+![ReotempFlippingCards.mp4](EsteinNewWebsite/ReferenceSnapshots/reotempSnapshots/ReotempFlippingCards.mp4)
 
 
 -> Listado de Categorias 
 
-![Pasted image 20250520114941](assets/Pasted%20image%2020250520114941.png)
+![Pasted image 20250520114941](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250520114941.png)
 
 ---
 

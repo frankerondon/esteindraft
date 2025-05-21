@@ -7,7 +7,7 @@ Ya que principalmente tenia es esta referencia de Website, basado en las anotaci
 
 [Dimuca](https://dimuca.net)
 
-![Pasted image 20250519122500](assets/Pasted%20image%2020250519122500.png)
+![Pasted image 20250519122500](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519122500.png)
 
 Este sitio web usa los siguientes stacks 
 

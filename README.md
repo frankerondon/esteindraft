@@ -10,9 +10,9 @@ Este sitio web usa los siguientes stacks
 ![Pasted image 20250519122800](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250519122800.png)
 
 Es decir que los stacks principales son:
-    Wordpress
-    Woocomerce
-    Elementor
+    -> Wordpress
+    -> Woocomerce
+    -> Elementor
 
 
 #### Secciones Homepage 

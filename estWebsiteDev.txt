@@ -1,0 +1,160 @@
+16/05/2025
+
+
+En la actualidad se desea hacer un nuevo website para la empresa Estein, es decir un 'Simple landing page' y ese 'simple landing page' debe contener los siguientes modulos
+como:
+
+
+Inicio		||		About		||	Producto	||	Servicios		||	Contacto
+
+
+https://dimuca.net
+
+
+V1
+https://www.google.com/search?client=opera&q=wordpress+vs+wix&sourceid=opera&ie=UTF-8&oe=UTF-8
+https://kinsta.com/es/blog/wix-vs-wordpress/
+https://slickplan.com/blog/wordpress-vs-wix
+https://www.hostinger.com/es/tutoriales/wix-vs-wordpress
+https://www.websitebuilderexpert.com/website-builders/comparisons/wix-vs-wordpress/
+https://www.hostinger.com/es/tutoriales/wix-vs-wordpress
+
+
+V2 
+http://localhost/phpmyadmin/index.php?route=/import
+http://localhost/wptest1/wp-admin/
+http://localhost/wptest1/
+
+
+Nota: Volver a revisar e importar de nuevo el website original porque parece ser que la data se ha 'perdido'
+
+
+V3 
+https://www.google.com/search?client=opera&q=webflow&sourceid=opera&ie=UTF-8&oe=UTF-8
+https://www.google.com/search?q=bubble+website+builder&client=opera&hs=iBL&sca_esv=70b5c3d27dd6e643&ei=-xAmaK6KD4qrwbkP2OypkQE&ved=0ahUKEwju8_bE7aWNAxWKVTABHVh2KhIQ4dUDCBA&uact=5&oq=bubble+website+builder&gs_lp=Egxnd3Mtd2l6LXNlcnAaAhgCIhZidWJibGUgd2Vic2l0ZSBidWlsZGVyMgcQABiABBgTMgcQABiABBgTMggQABgTGBYYHjIIEAAYExgWGB4yCBAAGBMYFhgeMggQABgTGBYYHjIFEAAY7wUyBRAAGO8FMggQABiABBiiBDIFEAAY7wVI_iJQ4gJY7SFwAXgBkAEAmAH2AaAB8hCqAQYwLjE0LjG4AQPIAQD4AQGYAhCgAuISwgIKEAAYsAMY1gQYR8ICExAuGIAEGLADGEMYxwEYigUYrwHCAhAQABiABBiwAxhDGIoFGIsDwgIcEC4YgAQYsAMYQxjIAxioAxiZAxiKBRiLA9gBAcICHBAuGIAEGLADGEMYpAMYyAMYqAMYigUYiwPYAQHCAh8QLhiABBiwAxhDGMgDGKgDGJgDGIoFGJoDGIsD2AEBwgIiEC4YgAQYsAMY0QMY0gMYQxjHARjIAxioAxiKBRiLA9gBAcICHBAuGIAEGLADGEMYyAMYqAMYigUYiwMYnwPYAQHCAg4QLhiABBixAxiDARjUAsICEBAuGIAEGLEDGEMYyQMYigXCAgUQABiABMICCxAAGIAEGJIDGIoFwgIFEC4YgATCAh0QLhiABBixAxiDARjUAhiXBRjcBBjeBBjgBNgBAcICFBAuGIAEGJcFGNwEGN4EGOAE2AEBwgIHEAAYgAQYCsICBhAAGBYYHsICCBAAGBYYChgewgIKEAAYExgWGAoYHpgDAIgGAZAGEroGBggBEAEYCJIHBjEuMTQuMaAH_HWyBwYwLjE0LjG4B7wS&sclient=gws-wiz-serp
+https://bubble.io/pricing
+https://www.youtube.com/watch?v=PuQz1w80ddw				Learn Bubble.io in 30 Minutes
+	https://www.youtube.com/@designchampions
+
+
+
+Site Title	
+	test
+
+Username	
+	admin
+
+Password	
+	Gs3vEIM)J)xl))rW8^
+
+Your Email	
+	admin@admin.com
+
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+20/05/2025
+
+
+
+https://dimuca.net/
+#### Secciones Homepage 
+-> Background Image (Con un button para redireccionar a un modulo)
+-> Quienes somos
+-> Nuestas Marcas 
+-> Nuestros Productos 
+-> Aliados Comerciales 
+-> Contact (With form)
+
+
+
+https://vaportec.com.ve/product-category/instrumentacion/manometros/
+#### Secciones Homepage 
+-> Background Image (With a text)
+-> Marcas Distribuidas 
+-> Nuestros Servicios 
+-> Quienes Somos
+-> Tienda Online 
+-> Cursos 
+-> Feedback
+-> Blog 
+-> Clientes (Carousel)
+-> Contacto
+
+
+https://aquatrece.com/products-details/pg-lf-lm-m/manometro
+#### Secciones Homepage 
+-> Video Background
+-> Tipo de Industria
+-> Productos (Card de productos [No de Categoria])
+-> Categorias
+-> Aliados 
+-> About (Un fragmento de esa seccion)
+-> Suscripcion Newsletter
+
+
+https://importadoraindustrial.com/categoria-producto/instrumentacion-y-medicion/
+#### Secciones Homepage
+-> Imagen Background
+-> Quienes somos
+-> Representantes
+-> Contacto Boton
+
+
+https://www.pumpstoponline.com.ve/products/manometro-glicerina-2-pulgadas-ss-de-0-100-psi-a-0-300-psi?srsltid=AfmBOoq19m6eUEfD51Tff7sL3ciRcMKflSGYXSn5Qfif_-7HKFSwtwxr
+#### Secciones Homepage
+-> Image Background 
+-> Ubicacion y contacto
+-> Video YT 
+-> Banner YT 
+-> Productos + vendidos 
+-> Marcas 
+-> Blog
+
+
+https://reotemp.com/
+#### Secciones Homepage 
+-> Video Background 
+-> Categoria Temperatura y Presion
+-> Video YT Presion 
+-> Porque Reotemp? (Flipping Cards)
+
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+
+Secciones Definitivas 
+
+-> Navbar
+-> Background Image/Video (Con un button para redireccionar a un modulo)
+-> Quienes somos (Breve y con imagenes)
+-> Industria (Flipping Cards)
+-> Marcas 
+-> Categoria de Productos
+-> Contacto
+-> Footer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

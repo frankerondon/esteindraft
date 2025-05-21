@@ -168,45 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "20060bfd2cd903a2",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6b7a1f98e61803f2",
-        "type": "window",
-        "children": [
-          {
-            "id": "4932cf56e1a41adb",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e3f18d4ebb5d7b15",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "ReferenceSnapshots/Pasted image 20250519150100.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20250519150100"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 294,
-        "y": 103,
-        "width": 1022,
-        "height": 726,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8ffcc7dddfae4b70",
+  "active": "60f0bb9289d3f3c2",
   "lastOpenFiles": [
+    "ReferenceSnapshots/Pasted image 20250519150100.png",
+    "Website Docs.md",
     "ReferenceSnapshots/Brands/Brands.mp4",
     "ReferenceSnapshots/Brands",
     "ReferenceSnapshots/Pasted image 20250520114941.png",
@@ -218,8 +183,6 @@
     "ReferenceSnapshots/Pasted image 20250520112047.png",
     "ReferenceSnapshots/Pasted image 20250520110422.png",
     "ReferenceSnapshots/Pasted image 20250520105659.png",
-    "ReferenceSnapshots/Pasted image 20250519150100.png",
-    "Website Docs.md",
     "ReferenceSnapshots/Pasted image 20250519125254.png",
     "ReferenceSnapshots/Pasted image 20250519125004.png",
     "ReferenceSnapshots/Pasted image 20250519124208.png",
@@ -229,7 +192,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "estWebsiteDev.txt",
-    "ReferenceSnapshots",
-    "New folder"
+    "ReferenceSnapshots"
   ]
 }

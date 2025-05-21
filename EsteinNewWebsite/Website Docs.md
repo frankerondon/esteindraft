@@ -217,3 +217,17 @@ De este website en particular me gusta es la seccion del video Background y los 
 
 ![[Pasted image 20250520114941.png]]
 
+---
+
+
+Secciones Definitivas en el Website
+
+-> Navbar
+-> Background Image/Video (Con un button para redireccionar a un modulo)
+-> Quienes somos (Breve y con imagenes)
+-> Industria (Flipping Cards)
+-> Marcas 
+-> Categoria de Productos
+-> Contacto
+-> Footer
+

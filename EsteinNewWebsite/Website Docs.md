@@ -395,6 +395,7 @@ Ahora va a tener estas secciones:
 	- Informacion de contacto
 	- Algunas politicas
 
+![[footer02.png]]
 
 
 

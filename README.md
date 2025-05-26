@@ -434,7 +434,7 @@ Ahora va a tener estas secciones:
 	- Automatizacion 
 - Nota: Es muy parecido a como esta estructurado dentro del Website de Reotemp 
 
-![[Pasted image 20250520114941.png]]
+![Pasted image 20250520114941.png](EsteinNewWebsite/ReferenceSnapshots/Pasted%20image%2020250520114941.png)
 
 
 6. Formulario o CTA: Queda igual que en el mostrado en la maquetacion 
@@ -444,4 +444,8 @@ Ahora va a tener estas secciones:
 	- Enlace RRSS
 	- Informacion de contacto
 	- Algunas politicas
+
+
+![footer02.png](EsteinNewWebsite/ReferenceSnapshots/footer02.png)
+
 

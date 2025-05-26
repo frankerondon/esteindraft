@@ -285,9 +285,7 @@ WEBSITE FINAL SECCION HOMEPAGE (DRAFT)
 
 
 
-
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-26/05/2025
+---
 
 
 He recibido el siguiente feedback de este pequeño informe:
@@ -407,7 +405,7 @@ WordPress + Elementor si quieres montar el sitio rápidamente.
 #### Feedback del boceto:
 
 1. La seccion del navbar antes tenia estas secciones 
-![[Pasted image 20250519151324.png]]
+![Pasted image 20250519151324.png](assets/navbar02.png)
 
 Ahora va a tener estas secciones:
 - Inicio
@@ -419,7 +417,7 @@ Ahora va a tener estas secciones:
 
 2. Hero section: Va a tener el background del video junto con un mensaje o bien embebido dentro del video que diga: "Soluciones Industriales para tu negocio" o por fuera del video. El GPT recomienda colocar un CTA Button.
 
-![[Soluciones Industriales para tu Negocio.png]]
+![Soluciones Industriales para tu Negocio.png](assets/Soluciones%20Industriales%20para%20tu%20Negocio.png)
 
 
 3. About Section: Hay que redactar la historia de la empresa junto con un valor que destaque.

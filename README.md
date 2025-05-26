@@ -424,7 +424,7 @@ Ahora va a tener estas secciones:
 
 4. Clientes / Casos de exito / Aliados: Hay que colocar la industria que ha trabajado ESTEIN junto con las marcas distribuidas
 
-![UntitledProject-ezgif.com-optimize.gif](EsteinNewWebsite/ReferenceSnapshots/ClientSection/Untitled Project/UntitledProject-ezgif.com-optimize.gif)
+![UntitledProject-ezgif.com-optimize.gif](EsteinNewWebsite/ReferenceSnapshots/ClientSection/Untitled%20Project/UntitledProject-ezgif.com-optimize.gif)
 
 
 5. Productos / Servicios: 

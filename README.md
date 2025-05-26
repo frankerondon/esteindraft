@@ -284,3 +284,166 @@ WEBSITE FINAL SECCION HOMEPAGE (DRAFT)
 ![homepageDraft.png](homepageDraft.png)
 
 
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+26/05/2025
+
+
+He recibido el siguiente feedback de este pequeño informe:
+
+#### Análisis del Boceto
+
+1. Encabezado / Header
+Logo: Si aparece, asegúrate de que esté en buena resolución y tenga un fondo transparente.
+
+Menú de navegación:
+
+¿Es visible y fácil de entender?
+
+Sería ideal incluir enlaces como: Inicio | Nosotros | Productos | Servicios | Contacto.
+
+Asegúrate de que sea responsive (colapsable en móvil).
+
+2. Hero Section (primera impresión)
+¿Incluye un mensaje claro y directo sobre qué es ESTEIN?
+
+Si aparece una imagen de fondo, debe tener buen contraste con el texto.
+
+Idealmente incluir:
+
+Un titular impactante. Ej: “Soluciones Industriales Confiables para tu Negocio”
+
+Subtítulo o frase de apoyo.
+
+Botón de llamada a la acción (CTA). Ej: Contáctanos, Solicita Cotización, Ver Catálogo.
+
+3. Sección de Productos o Servicios
+Agrupar por categoría: Instrumentación, Calibración, Automatización.
+
+Incluir íconos o imágenes de productos para mayor claridad.
+
+Posibilidad de usar “tarjetas” para cada producto o servicio con botón de más info.
+
+4. Sobre Nosotros
+Breve texto con:
+
+Historia de la empresa.
+
+Valor diferencial (ej. atención técnica, entrega nacional, soporte postventa).
+
+5. Clientes / Casos de éxito / Aliados
+Mostrar logos de empresas clientes (con permiso).
+
+Testimonios breves o cifras de impacto (años en el mercado, productos vendidos, etc.).
+
+6. Formulario o CTA al final
+Formulario de contacto breve: nombre, empresa, correo, mensaje.
+
+Botones para WhatsApp o correo directo.
+
+Incluye dirección y horarios de atención.
+
+7. Pie de página (Footer)
+Información de contacto clara.
+
+Enlaces a políticas (privacidad, términos).
+
+Enlaces a redes sociales (Instagram, WhatsApp, etc.).
+
+Posible slogan o resumen.
+
+✅ Recomendaciones Específicas
+Área	Recomendación
+Tipografía	Usa una tipografía moderna, legible y consistente (máximo 2 tipos diferentes).
+Colores	Mantén una paleta de máximo 3-4 colores. Usa uno primario, uno de acento y neutros.
+Iconografía	Añade íconos industriales o técnicos si no hay, para facilitar comprensión visual.
+Imágenes	Usa imágenes reales de tus productos, clientes o instalaciones cuando sea posible.
+CTA	Los botones deben destacar (color llamativo y acción clara).
+Optimización Móvil	Asegúrate de que todos los elementos se adapten a pantallas pequeñas.
+SEO	Titulares y textos deben incluir palabras clave de tu rubro.
+
+🛠️ Herramientas que podrías usar
+Figma o Canva para seguir mejorando el diseño.
+
+Framer, Wix Studio o Webflow para prototipos funcionales.
+
+WordPress + Elementor si quieres montar el sitio rápidamente.
+
+---
+
+#### Mi analisis del boceto:
+
+- **Navbar: Inicio | Nosotros | Producto | Servicios | Contacto 
+
+- **Hero Section (Image / Video Background): Mensaje claro y directo sobre quien es ESTEIN. Ejemplo: "Soluciones industriales para tu negocio"
+	- Luego un CTA Button: Contactanos / Cotizacion / Ver Catalogo
+
+- **Productos / Servicios:
+	- Categorias:
+		- Instrumentacion
+		- Calibracion
+		- Automatizacion
+
+- **Clientes / Casos de Exito / Aliados
+	- Mostrar logo de empresas Clientes 
+	- Testimonios o KPI's (Años en el mercado)
+
+- **Formulario o CTA:
+	- Contacto Breve: Nombre, Empresa, Correo, Mesaje, 
+	- Captcha Antispam
+	- Boton para Whatsapp
+	- Direccion
+	- Horario de Atencion 
+
+- **Footer:
+	- Informacion de Contacto 
+	- Politicas (Privacidad, terminos)
+	- Enlace RRSS
+	- Slogan o Resumen
+
+---
+
+#### Feedback del boceto:
+
+1. La seccion del navbar antes tenia estas secciones 
+![[Pasted image 20250519151324.png]]
+
+Ahora va a tener estas secciones:
+- Inicio
+- Nosotros
+- Producto
+- Servicios
+- Contacto
+
+
+2. Hero section: Va a tener el background del video junto con un mensaje o bien embebido dentro del video que diga: "Soluciones Industriales para tu negocio" o por fuera del video. El GPT recomienda colocar un CTA Button.
+
+![[Soluciones Industriales para tu Negocio.png]]
+
+
+3. About Section: Hay que redactar la historia de la empresa junto con un valor que destaque.
+
+4. Clientes / Casos de exito / Aliados: Hay que colocar la industria que ha trabajado ESTEIN junto con las marcas distribuidas
+
+![[UntitledProject-ezgif.com-optimize.gif]]
+
+
+5. Productos / Servicios: 
+- Categorias:
+	- Instrumentacion
+	- Calibracion 
+	- Automatizacion 
+- Nota: Es muy parecido a como esta estructurado dentro del Website de Reotemp 
+
+![[Pasted image 20250520114941.png]]
+
+
+6. Formulario o CTA: Queda igual que en el mostrado en la maquetacion 
+
+7. Footer: Queda casi igual al mostrado en la maquetacion, se deja:
+	- Resumen o Slogan
+	- Enlace RRSS
+	- Informacion de contacto
+	- Algunas politicas
+

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c72efc661ff64aec",
+        "id": "7389f624c6ded9f0",
         "type": "tabs",
         "children": [
           {
-            "id": "60f0bb9289d3f3c2",
+            "id": "6eacca2494c7638c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,31 +168,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60f0bb9289d3f3c2",
+  "active": "6eacca2494c7638c",
   "lastOpenFiles": [
+    "ReferenceSnapshots/Pasted image 20250520114941.png",
+    "Website Docs.md",
+    "ReferenceSnapshots/ClientSection/Untitled Project/UntitledProject-ezgif.com-optimize.gif",
+    "ReferenceSnapshots/ClientSection/Untitled Project/Untitled Project.mp4",
+    "ReferenceSnapshots/ClientSection/Untitled Project",
+    "ReferenceSnapshots/ClientSection",
+    "ReferenceSnapshots/New folder",
+    "ReferenceSnapshots/Soluciones Industriales para tu Negocio.png",
+    "ReferenceSnapshots/Pasted image 20250519151324.png",
+    "ReferenceSnapshots/Pasted image 20250519122500.png",
+    "homepageDraft.png",
     "ReferenceSnapshots/ReotempFlippingCards/ReotempFlippingCards-ezgif.com-speed.gif",
     "ReferenceSnapshots/reotempSnapshots/reotempSnapshots-ezgif.com-speed.gif",
     "ReferenceSnapshots/videoHomepageSample/videoHomepageSample-ezgif.com-optimize.gif",
     "ReferenceSnapshots/Pasted image 20250519150100.png",
-    "Website Docs.md",
     "ReferenceSnapshots/Brands/Brands.mp4",
     "ReferenceSnapshots/Brands",
-    "ReferenceSnapshots/Pasted image 20250520114941.png",
     "ReferenceSnapshots/ReotempFlippingCards/ReotempFlippingCards.mp4",
     "ReferenceSnapshots/ReotempFlippingCards",
     "ReferenceSnapshots/reotempSnapshots/reotempSnapshots.mp4",
     "ReferenceSnapshots/reotempSnapshots",
-    "ReferenceSnapshots/Pasted image 20250520112530.png",
-    "ReferenceSnapshots/Pasted image 20250520112047.png",
-    "ReferenceSnapshots/Pasted image 20250520110422.png",
-    "ReferenceSnapshots/Pasted image 20250520105659.png",
-    "ReferenceSnapshots/Pasted image 20250519125254.png",
-    "ReferenceSnapshots/Pasted image 20250519125004.png",
-    "ReferenceSnapshots/videoHomepageSample/videoHomepageSample.mp4",
-    "ReferenceSnapshots/videoHomepageSample",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "estWebsiteDev.txt",
-    "ReferenceSnapshots"
+    "Untitled.canvas"
   ]
 }
